@@ -1007,10 +1007,10 @@
                 <!-- Modal Next & Prev  -->
                 <div class="row justify-content-end">
                     <div class="d-none d-md-block left-arrow-sec text-center mt-auto mb-auto">
-                        <a class="d-flex justify-content-center" onclick="prev_window('morphic-window6');"><i class="fa fa-angle-left"></i></a>
+                        <a class="d-flex justify-content-center" onclick="prev_window('morphic-window-tiradentes');"><i class="fa fa-angle-left"></i></a>
                     </div>
                     <div class="d-none d-md-block right-arrow-sec text-center mt-auto mb-auto">
-                        <a class="d-flex justify-content-center" onclick="next_window('morphic-window2');"><i class="fa fa-angle-right"></i></a>
+                        <a class="d-flex justify-content-center" onclick="next_window('morphic-window-tiradentes-f2');"><i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -1077,10 +1077,10 @@
                 <!-- Modal Next & Prev  -->
                 <div class="row justify-content-end">
                     <div class="d-none d-md-block left-arrow-sec text-center mt-auto mb-auto">
-                        <a class="d-flex justify-content-center" onclick="prev_window('morphic-window6');"><i class="fa fa-angle-left"></i></a>
+                        <a class="d-flex justify-content-center" onclick="prev_window('morphic-window-tiradentes-f1');"><i class="fa fa-angle-left"></i></a>
                     </div>
                     <div class="d-none d-md-block right-arrow-sec text-center mt-auto mb-auto">
-                        <a class="d-flex justify-content-center" onclick="next_window('morphic-window2');"><i class="fa fa-angle-right"></i></a>
+                        <a class="d-flex justify-content-center" onclick="next_window('morphic-window-tiradentes-f3');"><i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -1147,10 +1147,10 @@
                 <!-- Modal Next & Prev  -->
                 <div class="row justify-content-end">
                     <div class="d-none d-md-block left-arrow-sec text-center mt-auto mb-auto">
-                        <a class="d-flex justify-content-center" onclick="prev_window('morphic-window6');"><i class="fa fa-angle-left"></i></a>
+                        <a class="d-flex justify-content-center" onclick="prev_window('morphic-window-tiradentes-f2');"><i class="fa fa-angle-left"></i></a>
                     </div>
                     <div class="d-none d-md-block right-arrow-sec text-center mt-auto mb-auto">
-                        <a class="d-flex justify-content-center" onclick="next_window('morphic-window2');"><i class="fa fa-angle-right"></i></a>
+                        <a class="d-flex justify-content-center" onclick="next_window('morphic-window-tiradentes-f4');"><i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -1218,10 +1218,10 @@
                 <!-- Modal Next & Prev  -->
                 <div class="row justify-content-end">
                     <div class="d-none d-md-block left-arrow-sec text-center mt-auto mb-auto">
-                        <a class="d-flex justify-content-center" onclick="prev_window('morphic-window6');"><i class="fa fa-angle-left"></i></a>
+                        <a class="d-flex justify-content-center" onclick="prev_window('morphic-window-tiradentes-f3');"><i class="fa fa-angle-left"></i></a>
                     </div>
                     <div class="d-none d-md-block right-arrow-sec text-center mt-auto mb-auto">
-                        <a class="d-flex justify-content-center" onclick="next_window('morphic-window2');"><i class="fa fa-angle-right"></i></a>
+                        <a class="d-flex justify-content-center" onclick="next_window('morphic-window-tiradentes');"><i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
             </div>
