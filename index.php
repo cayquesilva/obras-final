@@ -1595,6 +1595,21 @@
 </div>
 <!-- End Copyright -->
 
+<!-- FOOTER -->
+<section class="footer-mobile">
+    <div class="social">
+        <a class="social-icon-footer" href="javascript:void(0);"><i class="fab fa-facebook-f"></i></a>
+        <a class="social-icon-footer" href="javascript:void(0);"><i class="fab fa-twitter"></i></a>
+        <a class="social-icon-footer" href="javascript:void(0);"><i class="fab fa-linkedin-in"></i></a>
+        <a class="social-icon-footer" href="javascript:void(0);"><i class="fab fa-instagram"></i></a>
+    </div>
+    <div class="copy">
+        <div class="copyright text-black link"><span>©  Seduc 2024.</span></div>
+    </div>
+</section>
+
+<!-- END FOOTER -->
+
 <!-- JavaScript -->
 <script src="js/bundle.min.js"></script>
 <script src="js/wow.min.js"></script>

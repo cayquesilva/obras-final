@@ -121,6 +121,9 @@ section{padding: 0;}
 
 /*Social Icon Hover Bg Hover */
 .social-icon:hover{color:#ffffff !important; background: #009660 !important; -webkit-transition: .3s ease-in-out;-o-transition: .3s ease-in-out;transition: .3s ease-in-out;}
+.social-icon-footer:hover{color:#009660 !important; background: #ffffff !important; -webkit-transition: .3s ease-in-out;-o-transition: .3s ease-in-out;transition: .3s ease-in-out;}
+
+
 
 /* Social Icons Background */
 .facebook-bg-hvr:hover{background:#4267B2 !important;color: #fff !important;border: 1px solid #4267B2 !important;}
@@ -1407,6 +1410,11 @@ section{padding: 0;}
     height: 200px;
 }
 
+/* FOOTER */
+.footer-mobile{
+    display: none;
+}
+
 @keyframes animation {
     0% {
         stroke-dasharray: 1,98;
@@ -1731,6 +1739,30 @@ section{padding: 0;}
     /* Background Images Adjustment */
     .slider-area, .all-products, .reviews, .contact-sec {
         background-image: none;
+    }
+
+    /*FOOTER*/
+
+    .footer-mobile{
+        display: flex;
+        flex-direction: column;
+        background-color: #009660 !important;
+    }
+
+    .footer-mobile .copyright, .footer-mobile .social-icon-footer{
+        color: #ffffff;
+    }
+
+    .footer-mobile .social-icon-footer{
+        display: inline-block;
+        border-radius: 50%;
+        width: 30px;
+        height: 30px;
+        line-height: 31px;
+    }
+
+    .footer-mobile .social-icon-footer i{
+        font-size: 16px;
     }
 }
 
