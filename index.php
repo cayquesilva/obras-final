@@ -31,7 +31,7 @@
                     <fedropshadow dx="0" dy="0" stdDeviation="0.5" flood-color="#dabd1d"></fedropshadow>
                 </filter>
             </defs>
-            <circle id="spinner" style="fill:transparent;stroke:#009660;stroke-width: 8px;stroke-linecap: round;filter:url(index-product-hotspot.html#shadow);" cx="50" cy="50" r="45"></circle>
+            <circle id="spinner" style="fill:transparent;stroke:#009660;stroke-width: 8px;stroke-linecap: round;filter:url(index.php#shadow);" cx="50" cy="50" r="45"></circle>
         </svg>
     </div>
 </div>
@@ -63,13 +63,13 @@
                                 <a data-menuanchor="home-banner" class="nav-link link active line" href="#home-banner">Inicio </a>
                             </li>
                             <li class="nav-item"><!-- CORRIGIR OS HREFS. MODIFICANDO PARA CADA OBRA-->
-                                <a data-menuanchor="all-products" class="nav-link link line" href="#all-products">Projetos</a>
+                                <a data-menuanchor="obras" class="nav-link link line" href="#obras">Projetos</a>
                             </li>                           
                             <li class="nav-item">
-                                <a data-menuanchor="reviews" class="nav-link link line" href="#reviews">Comentários</a>
+                                <a data-menuanchor="depoimentos" class="nav-link link line" href="#depoimentos">Comentários</a>
                             </li>
                             <li class="nav-item">
-                                <a data-menuanchor="contact" class="nav-link link line" href="#contact">Contatos</a></li>
+                                <a data-menuanchor="contato" class="nav-link link line" href="#contato">Contatos</a></li>
                         </ul>
                         <div class="slider-social side-icons">
                             <ul class="list-unstyled">
