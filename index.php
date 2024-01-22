@@ -141,7 +141,7 @@
                 <div class="col-12 col-md-6">
                     <h1 class="main-font font-weight-bold text-grey content1 wow" data-wow-delay=".4s">Vamos <span class="d-block main-color">Conhecer nossos projetos? </span></h1>
                     <p class="alt-font text-grey my-3 content1 wow" data-wow-delay=".6s">É obra pra todo lado!</p>
-                    <a href="#all-products" class="btn btn-medium btn-rounded btn-trans text-capitalize mt-3 mb-5 mb-md-0 content1 wow" data-wow-delay=".8s">Conhecer</a>
+                    <a href="#obras" class="btn btn-medium btn-rounded btn-trans text-capitalize mt-3 mb-5 mb-md-0 content1 wow" data-wow-delay=".8s">Conhecer</a>
                 </div>
                 <div class="col-12 col-md-6 section1right wow" data-wow-delay=".8s">
                     <div class="banner-image" data-depth="0.07">
@@ -196,7 +196,7 @@
 
 
 <!-- START ALL PRODUCTS GERAL-->
-<section class="section slide2 all-products" id="all-products">
+<section class="section slide2 all-products" id="obras">
     <div class="container expand-container position-relative">
         <div class="row align-items-center mb-3 mb-md-5 section-heading">
             <div class="col-12 col-md-6 section2left wow" data-wow-delay=".8s">
@@ -215,7 +215,7 @@
                     <div class="col-12 col-md-3">
                         <div class="parallax-box text-grey">
                             <h2 class="count">40</h2>
-                            <h5> Mil Famílias alcançadas</h5>
+                            <h5>Mil Famílias alcançadas</h5>
                         </div>
                     </div>
                     <!-- Counter -->
@@ -248,7 +248,7 @@
                     <!--Product Text-->
                     <div class="team-text">
                         <h5 class="main-font">EM Tiradentes</h5>
-                        <a onclick="morphic_window('morphic-window1');" class="btn btn-medium btn-rounded btn-trans text-capitalize mt-3 mb-5 mb-md-0">Saiba mais</a>
+                        <a onclick="morphic_window('morphic-window-tiradentes');" class="btn btn-medium btn-rounded btn-trans text-capitalize mt-3 mb-5 mb-md-0">Saiba mais</a>
                     </div>
                 </div>
                 <!--Item 2-->
@@ -340,7 +340,7 @@
                     <div class="col-12 col-md-3">
                         <div class="parallax-box text-grey">
                             <h2 class="count">40</h2>
-                            <h5> Mil Famílias alcançadas</h5>
+                            <h5>Mil Famílias alcançadas</h5>
                         </div>
                     </div>
                     <!-- Counter -->
@@ -373,7 +373,7 @@
                     <!--Product Text-->
                     <div class="team-text">
                         <h5 class="main-font">Fase 1</h5>
-                        <a onclick="morphic_window('morphic-window1');" class="btn btn-medium btn-rounded btn-trans text-capitalize mt-3 mb-5 mb-md-0">Saiba mais</a>
+                        <a onclick="morphic_window('morphic-window-tiradentes-f1');" class="btn btn-medium btn-rounded btn-trans text-capitalize mt-3 mb-5 mb-md-0">Saiba mais</a>
                     </div>
                 </div>
                 <!--Item 2-->
@@ -385,7 +385,7 @@
                     <!--Product Text-->
                     <div class="team-text">
                         <h5 class="main-font">Fase 2</h5>
-                        <a onclick="morphic_window('morphic-window2');" class="btn btn-medium btn-rounded btn-trans text-capitalize mt-3 mb-5 mb-md-0">Saiba mais</a>
+                        <a onclick="morphic_window('morphic-window-tiradentes-f2');" class="btn btn-medium btn-rounded btn-trans text-capitalize mt-3 mb-5 mb-md-0">Saiba mais</a>
                     </div>
                 </div>
                 <!--Item 3-->
@@ -397,7 +397,7 @@
                     <!--Product Text-->
                     <div class="team-text">
                         <h5 class="main-font">Fase 3</h5>
-                        <a onclick="morphic_window('morphic-window3');" class="btn btn-medium btn-rounded btn-trans text-capitalize mt-3 mb-5 mb-md-0">Saiba mais</a>
+                        <a onclick="morphic_window('morphic-window-tiradentes-f3');" class="btn btn-medium btn-rounded btn-trans text-capitalize mt-3 mb-5 mb-md-0">Saiba mais</a>
                     </div>
                 </div>
                 <!--Item 4-->
@@ -409,7 +409,7 @@
                     <!--Product Text-->
                     <div class="team-text">
                         <h5 class="main-font">Fase 4</h5>
-                        <a onclick="morphic_window('morphic-window4');" class="btn btn-medium btn-rounded btn-trans text-capitalize mt-3 mb-5 mb-md-0">Saiba mais</a>
+                        <a onclick="morphic_window('morphic-window-tiradentes-f4');" class="btn btn-medium btn-rounded btn-trans text-capitalize mt-3 mb-5 mb-md-0">Saiba mais</a>
                     </div>
                 </div>
                 <!--Item 5-->
@@ -421,7 +421,7 @@
                     <!--Product Text-->
                     <div class="team-text">
                         <h5 class="main-font">Fase 5</h5>
-                        <a onclick="morphic_window('morphic-window5');" class="btn btn-medium btn-rounded btn-trans text-capitalize mt-3 mb-5 mb-md-0">Saiba mais</a>
+                        <a onclick="morphic_window('morphic-window-tiradentes-f5');" class="btn btn-medium btn-rounded btn-trans text-capitalize mt-3 mb-5 mb-md-0">Saiba mais</a>
                     </div>
                 </div>
                 <!--Item 6-->
@@ -432,8 +432,8 @@
                     </div>
                     <!--Product Text-->
                     <div class="team-text">
-                        <h5 class="main-font">Outros</h5>
-                        <a onclick="morphic_window('morphic-window6');" class="btn btn-medium btn-rounded btn-trans text-capitalize mt-3 mb-5 mb-md-0">Saiba mais</a>
+                        <h5 class="main-font">Sobre a Obra</h5>
+                        <a onclick="morphic_window('morphic-window-tiradentes');" class="btn btn-medium btn-rounded btn-trans text-capitalize mt-3 mb-5 mb-md-0">Saiba mais</a>
                     </div>
                 </div>
             </div>
@@ -465,7 +465,7 @@
                     <div class="col-12 col-md-4">
                         <div class="parallax-box text-grey">
                             <h2 class="count">40</h2>
-                            <h5> Mil Famílias alcançadas</h5>
+                            <h5>Mil Famílias alcançadas</h5>
                         </div>
                     </div>
                     <!-- Counter -->
@@ -583,7 +583,125 @@
                     <div class="col-12 col-md-4">
                         <div class="parallax-box text-grey">
                             <h2 class="count">40</h2>
-                            <h5> Mil Famílias alcançadas</h5>
+                            <h5>Mil Famílias alcançadas</h5>
+                        </div>
+                    </div>
+                    <!-- Counter -->
+                    <div class="col-12 col-md-4">
+                        <div class="parallax-box text-grey">
+                            <h2 class="count">400</h2>
+                            <h5>Salas Climatizadas na Rede</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Products -->
+        <div class="row products-fade wow" data-wow-delay=".8s">
+            <div class="owl-products owl-carousel owl-theme wow fadeInUp">
+                <!--Item 1-->
+                <div class="team-box item">
+                    <!--Product Image-->
+                    <div class="team-image">
+                        <img src="images/fase1.png" alt="image">
+                    </div>
+                    <!--Product Text-->
+                    <div class="team-text">
+                        <h5 class="main-font">Fase 1</h5>
+                        <a onclick="morphic_window('morphic-window1');" class="btn btn-medium btn-rounded btn-trans text-capitalize mt-3 mb-5 mb-md-0">Saiba mais</a>
+                    </div>
+                </div>
+                <!--Item 2-->
+                <div class="team-box item">
+                    <!--Product Image-->
+                    <div class="team-image">
+                        <img src="images/fase2.png" alt="image">
+                    </div>
+                    <!--Product Text-->
+                    <div class="team-text">
+                        <h5 class="main-font">Fase 2</h5>
+                        <a onclick="morphic_window('morphic-window2');" class="btn btn-medium btn-rounded btn-trans text-capitalize mt-3 mb-5 mb-md-0">Saiba mais</a>
+                    </div>
+                </div>
+                <!--Item 3-->
+                <div class="team-box item">
+                    <!--Product Image-->
+                    <div class="team-image">
+                        <img src="images/fase3.png" alt="image">
+                    </div>
+                    <!--Product Text-->
+                    <div class="team-text">
+                        <h5 class="main-font">Fase 3</h5>
+                        <a onclick="morphic_window('morphic-window3');" class="btn btn-medium btn-rounded btn-trans text-capitalize mt-3 mb-5 mb-md-0">Saiba mais</a>
+                    </div>
+                </div>
+                <!--Item 4-->
+                <div class="team-box item">
+                    <!--Product Image-->
+                    <div class="team-image">
+                        <img src="images/fase4.png" alt="image">
+                    </div>
+                    <!--Product Text-->
+                    <div class="team-text">
+                        <h5 class="main-font">Fase 4</h5>
+                        <a onclick="morphic_window('morphic-window4');" class="btn btn-medium btn-rounded btn-trans text-capitalize mt-3 mb-5 mb-md-0">Saiba mais</a>
+                    </div>
+                </div>
+                <!--Item 5-->
+                <div class="team-box item">
+                    <!--Product Image-->
+                    <div class="team-image">
+                        <img src="images/fase5.png" alt="image">
+                    </div>
+                    <!--Product Text-->
+                    <div class="team-text">
+                        <h5 class="main-font">Fase 5</h5>
+                        <a onclick="morphic_window('morphic-window5');" class="btn btn-medium btn-rounded btn-trans text-capitalize mt-3 mb-5 mb-md-0">Saiba mais</a>
+                    </div>
+                </div>
+                <!--Item 6-->
+                <div class="team-box item">
+                    <!--Product Image-->
+                    <div class="team-image">
+                        <img src="images/fase1.png" alt="image">
+                    </div>
+                    <!--Product Text-->
+                    <div class="team-text">
+                        <h5 class="main-font">Outros</h5>
+                        <a onclick="morphic_window('morphic-window6');" class="btn btn-medium btn-rounded btn-trans text-capitalize mt-3 mb-5 mb-md-0">Saiba mais</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Owl Nav-->
+        <a class="circle" id="team-circle-left"><i class="lni lni-chevron-left"></i></a>
+        <a class="circle" id="team-circle-right"><i class="lni lni-chevron-right"></i></a>
+    </div>
+</section>
+<!-- END ALL PRODUCTS 3 -->
+
+<!-- START ALL PRODUCTS 3 -->
+<section class="section slide2 all-products" id="escola4">
+    <div class="container expand-container position-relative">
+        <div class="row align-items-center mb-3 mb-md-5 section-heading">
+            <div class="col-12 col-md-6 section2left wow" data-wow-delay=".8s">
+                <h2 class="main-font">Escola <span class="d-block main-color">Presidente Kennedy</span></h2>
+            </div>
+            <div class="col-12 col-md-6 section2right wow" data-wow-delay=".8s">
+                <div class="row my-4 my-md-0">
+                    <!-- Counter -->
+                    <div class="col-12 col-md-4">
+                        <div class="parallax-box text-grey">
+                            <h2 class="count">23</h2>
+                            <h5>Obras em andamento</h5>
+                        </div>
+                    </div>
+                    <!-- Counter -->
+                    <div class="col-12 col-md-4">
+                        <div class="parallax-box text-grey">
+                            <h2 class="count">40</h2>
+                            <h5>Mil Famílias alcançadas</h5>
                         </div>
                     </div>
                     <!-- Counter -->
@@ -682,7 +800,7 @@
 <!-- END ALL PRODUCTS 3 -->
 
 <!-- START REVIEWS -->
-<section class="section slide4 reviews" id="reviews">
+<section class="section slide4 reviews" id="depoimentos">
     <div class="container expand-container">
         <div class="row align-items-center mb-3 mb-md-5 section-heading">
             <div class="col-12 section3zoom text-center wow" data-wow-delay=".8s">
@@ -722,6 +840,21 @@
                 <div class="testimonial-tittle mt-3 mb-3">
                     <h3 class="mb-0 text-grey alt-font">Socorro Siqueira</h3>
                 </div>
+            </div>       
+            <!-- Item-3 -->
+            <div class="item review-zoom2In wow" data-wow-delay=".4s">
+                <div class="icon-quotes mb-4">
+                    <i class="fas fa-quote-left"></i>
+                </div>
+                <div class="description">
+                    <p class="text-grey paragraph">Investimentos que constroem a melhor educação da Paraíba! Temos muito do que nos orgulhar em relação a nossa Rede de Ensino. São mais de 20 obras em andamento, além de programas e equipamentos que impulsionam o ensino público de qualidade em Campina.</p>
+                </div>
+                <div class="testimonial-img mt-4 bottom">
+                    <img src="./images/brunocl.jpg" alt="student img">
+                </div>
+                <div class="testimonial-tittle mt-3 mb-3">
+                    <h3 class="mb-0 text-grey alt-font">Bruno Cunha Lima</h3>
+                </div>
             </div>           
             
         </div>
@@ -730,7 +863,7 @@
 <!-- END REVIEWS -->
 
 <!-- START CONTACT -->
-<section class="section slide5 contact-sec" id="contact">
+<section class="section slide5 contact-sec" id="contato">
     <div class="container expand-container">
         <div class="row justify-content-center">
             <div class="col-12 col-lg-6 section4left wow" data-wow-delay=".8s">
@@ -745,7 +878,78 @@
 
 <div id="data-modal">
 <!-- Modal Window 1 Start -->
-<div class="modal-window" id="morphic-window1">
+<div class="modal-window" id="morphic-window-tiradentes">
+    <div class="modal-body">
+        <header>
+            <span class="close-modal"><i></i><i></i></span>
+        </header>
+        <div class="morphic-body">
+            <div class="container">
+                <div class="row main-morphic-body align-items-center">
+                    <div class="morphic-img col-12 col-md-6">
+                        <!-- Main Image -->
+                        <div id="carousel-thumb" class="carousel slide carousel-fade carousel-thumbnails" data-ride="carousel">
+                            <!--Slides-->
+                            <div class="carousel-inner" role="listbox">
+                                <div class="carousel-item active">
+                                    <img class="d-block w-100" src="images/fase1_1s.png" alt="First slide">
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="d-block w-100" src="images/fase1_2s.png" alt="Second slide">
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="d-block w-100" src="images/fase1_3s.png" alt="Third slide">
+                                </div>
+                            </div>
+                            <!--/.Slides-->
+                            <ol class="carousel-indicators">
+                                <li data-target="#carousel-thumb" data-slide-to="0" class="active">
+                                    <img class="d-block w-100 img-fluid" src="images/fase1_1i.png" alt="First slide">
+                                </li>
+                                <li data-target="#carousel-thumb" data-slide-to="1">
+                                    <img class="d-block w-100 img-fluid" src="images/fase1_2i.png" alt="Second slide">
+                                </li>
+                                <li data-target="#carousel-thumb" data-slide-to="2">
+                                    <img class="d-block w-100 img-fluid" src="images/fase1_3i.png" alt="Third slide">
+                                </li>
+                            </ol>
+                        </div>
+                        <!--/.Carousel Wrapper-->
+                    </div>
+                    <div class="morphic-title col-12 col-md-6">
+                        <h3>Ganhos com a Obra:</h3>
+                        <p>Retirada de telhas dos blocos;<br>
+                            Demolição de alvenaria;<br>
+                            Execução de gabarito;<br>
+                            Escavação de vala;<br>
+                            Concretagem de elementos estruturais;<br>
+                            Execução de almoxarifado e salas de apoio a obra.
+                        </p>
+
+                        <div class="row pb-4">
+                            <h3>Valor do investimento:</h3>
+                            <div class="col-12 price-modal"><h1>R$ 1.439.274,33</h1></div>
+                            <div class="col-12 modal-btn"><a target="_blank" href="#" class="btn btn-medium btn-rounded btn-trans text-capitalize">Voltar</a></div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Modal Next & Prev  -->
+                <div class="row justify-content-end">
+                    <div class="d-none d-md-block left-arrow-sec text-center mt-auto mb-auto">
+                        <a class="d-flex justify-content-center" onclick="prev_window('morphic-window6');"><i class="fa fa-angle-left"></i></a>
+                    </div>
+                    <div class="d-none d-md-block right-arrow-sec text-center mt-auto mb-auto">
+                        <a class="d-flex justify-content-center" onclick="next_window('morphic-window2');"><i class="fa fa-angle-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Modal Window 1 End -->
+
+<!-- Modal Window 1 Start -->
+<div class="modal-window" id="morphic-window-tiradentes-f1">
     <div class="modal-body">
         <header>
             <span class="close-modal"><i></i><i></i></span>
@@ -795,7 +999,218 @@
 
                         <div class="row pb-4">
                             <h3>Valor pago:</h3>
-                            <div class="col-12 price-modal"><h1>R$299.000,00</h1></div>
+                            <div class="col-12 price-modal"><h1>R$XXX.000,00</h1></div>
+                            <div class="col-12 modal-btn"><a target="_blank" href="#" class="btn btn-medium btn-rounded btn-trans text-capitalize">Voltar</a></div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Modal Next & Prev  -->
+                <div class="row justify-content-end">
+                    <div class="d-none d-md-block left-arrow-sec text-center mt-auto mb-auto">
+                        <a class="d-flex justify-content-center" onclick="prev_window('morphic-window6');"><i class="fa fa-angle-left"></i></a>
+                    </div>
+                    <div class="d-none d-md-block right-arrow-sec text-center mt-auto mb-auto">
+                        <a class="d-flex justify-content-center" onclick="next_window('morphic-window2');"><i class="fa fa-angle-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Modal Window 1 End -->
+
+
+<!-- Modal Window 1 Start -->
+<div class="modal-window" id="morphic-window-tiradentes-f2">
+    <div class="modal-body">
+        <header>
+            <span class="close-modal"><i></i><i></i></span>
+        </header>
+        <div class="morphic-body">
+            <div class="container">
+                <div class="row main-morphic-body align-items-center">
+                    <div class="morphic-img col-12 col-md-6">
+                        <!-- Main Image -->
+                        <div id="carousel-thumb" class="carousel slide carousel-fade carousel-thumbnails" data-ride="carousel">
+                            <!--Slides-->
+                            <div class="carousel-inner" role="listbox">
+                                <div class="carousel-item active">
+                                    <img class="d-block w-100" src="images/fase1_1s.png" alt="First slide">
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="d-block w-100" src="images/fase1_2s.png" alt="Second slide">
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="d-block w-100" src="images/fase1_3s.png" alt="Third slide">
+                                </div>
+                            </div>
+                            <!--/.Slides-->
+                            <ol class="carousel-indicators">
+                                <li data-target="#carousel-thumb" data-slide-to="0" class="active">
+                                    <img class="d-block w-100 img-fluid" src="images/fase1_1i.png" alt="First slide">
+                                </li>
+                                <li data-target="#carousel-thumb" data-slide-to="1">
+                                    <img class="d-block w-100 img-fluid" src="images/fase1_2i.png" alt="Second slide">
+                                </li>
+                                <li data-target="#carousel-thumb" data-slide-to="2">
+                                    <img class="d-block w-100 img-fluid" src="images/fase1_3i.png" alt="Third slide">
+                                </li>
+                            </ol>
+                        </div>
+                        <!--/.Carousel Wrapper-->
+                    </div>
+                    <div class="morphic-title col-12 col-md-6">
+                        <h3>Fase 2</h3>
+                        <p>Escavação de sapatas;<br>
+                            Reaterro das escavações;<br>
+                            Concretagem de elementos estruturais;<br>
+                            Execução de emboço e reboco das alvenarias;<br>
+                        </p>
+
+                        <div class="row pb-4">
+                            <h3>Valor pago:</h3>
+                            <div class="col-12 price-modal"><h1>R$XXX.000,00</h1></div>
+                            <div class="col-12 modal-btn"><a target="_blank" href="#" class="btn btn-medium btn-rounded btn-trans text-capitalize">Voltar</a></div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Modal Next & Prev  -->
+                <div class="row justify-content-end">
+                    <div class="d-none d-md-block left-arrow-sec text-center mt-auto mb-auto">
+                        <a class="d-flex justify-content-center" onclick="prev_window('morphic-window6');"><i class="fa fa-angle-left"></i></a>
+                    </div>
+                    <div class="d-none d-md-block right-arrow-sec text-center mt-auto mb-auto">
+                        <a class="d-flex justify-content-center" onclick="next_window('morphic-window2');"><i class="fa fa-angle-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Modal Window 1 End -->
+
+
+<!-- Modal Window 1 Start -->
+<div class="modal-window" id="morphic-window-tiradentes-f3">
+    <div class="modal-body">
+        <header>
+            <span class="close-modal"><i></i><i></i></span>
+        </header>
+        <div class="morphic-body">
+            <div class="container">
+                <div class="row main-morphic-body align-items-center">
+                    <div class="morphic-img col-12 col-md-6">
+                        <!-- Main Image -->
+                        <div id="carousel-thumb" class="carousel slide carousel-fade carousel-thumbnails" data-ride="carousel">
+                            <!--Slides-->
+                            <div class="carousel-inner" role="listbox">
+                                <div class="carousel-item active">
+                                    <img class="d-block w-100" src="images/fase1_1s.png" alt="First slide">
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="d-block w-100" src="images/fase1_2s.png" alt="Second slide">
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="d-block w-100" src="images/fase1_3s.png" alt="Third slide">
+                                </div>
+                            </div>
+                            <!--/.Slides-->
+                            <ol class="carousel-indicators">
+                                <li data-target="#carousel-thumb" data-slide-to="0" class="active">
+                                    <img class="d-block w-100 img-fluid" src="images/fase1_1i.png" alt="First slide">
+                                </li>
+                                <li data-target="#carousel-thumb" data-slide-to="1">
+                                    <img class="d-block w-100 img-fluid" src="images/fase1_2i.png" alt="Second slide">
+                                </li>
+                                <li data-target="#carousel-thumb" data-slide-to="2">
+                                    <img class="d-block w-100 img-fluid" src="images/fase1_3i.png" alt="Third slide">
+                                </li>
+                            </ol>
+                        </div>
+                        <!--/.Carousel Wrapper-->
+                    </div>
+                    <div class="morphic-title col-12 col-md-6">
+                        <h3>Fase 3</h3>
+                        <p>Transporte de entulho com caminhão basculante;<br>
+                            Concretagem de lajes das salas existentes;<br>
+                            Execução de revestimentos, chapisco, emboço e reboco das alvenrias;<br>
+                            Execução de lastro concreto magro e contrapiso das salas e blocos;<br>
+                        </p>
+
+                        <div class="row pb-4">
+                            <h3>Valor pago:</h3>
+                            <div class="col-12 price-modal"><h1>R$XXX.000,00</h1></div>
+                            <div class="col-12 modal-btn"><a target="_blank" href="#" class="btn btn-medium btn-rounded btn-trans text-capitalize">Voltar</a></div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Modal Next & Prev  -->
+                <div class="row justify-content-end">
+                    <div class="d-none d-md-block left-arrow-sec text-center mt-auto mb-auto">
+                        <a class="d-flex justify-content-center" onclick="prev_window('morphic-window6');"><i class="fa fa-angle-left"></i></a>
+                    </div>
+                    <div class="d-none d-md-block right-arrow-sec text-center mt-auto mb-auto">
+                        <a class="d-flex justify-content-center" onclick="next_window('morphic-window2');"><i class="fa fa-angle-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Modal Window 1 End -->
+
+
+<!-- Modal Window 1 Start -->
+<div class="modal-window" id="morphic-window-tiradentes-f4">
+    <div class="modal-body">
+        <header>
+            <span class="close-modal"><i></i><i></i></span>
+        </header>
+        <div class="morphic-body">
+            <div class="container">
+                <div class="row main-morphic-body align-items-center">
+                    <div class="morphic-img col-12 col-md-6">
+                        <!-- Main Image -->
+                        <div id="carousel-thumb" class="carousel slide carousel-fade carousel-thumbnails" data-ride="carousel">
+                            <!--Slides-->
+                            <div class="carousel-inner" role="listbox">
+                                <div class="carousel-item active">
+                                    <img class="d-block w-100" src="images/fase1_1s.png" alt="First slide">
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="d-block w-100" src="images/fase1_2s.png" alt="Second slide">
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="d-block w-100" src="images/fase1_3s.png" alt="Third slide">
+                                </div>
+                            </div>
+                            <!--/.Slides-->
+                            <ol class="carousel-indicators">
+                                <li data-target="#carousel-thumb" data-slide-to="0" class="active">
+                                    <img class="d-block w-100 img-fluid" src="images/fase1_1i.png" alt="First slide">
+                                </li>
+                                <li data-target="#carousel-thumb" data-slide-to="1">
+                                    <img class="d-block w-100 img-fluid" src="images/fase1_2i.png" alt="Second slide">
+                                </li>
+                                <li data-target="#carousel-thumb" data-slide-to="2">
+                                    <img class="d-block w-100 img-fluid" src="images/fase1_3i.png" alt="Third slide">
+                                </li>
+                            </ol>
+                        </div>
+                        <!--/.Carousel Wrapper-->
+                    </div>
+                    <div class="morphic-title col-12 col-md-6">
+                        <h3>Fase 4</h3>
+                        <p>Execução de estrutura de concreto armado;<br>
+                            Execução de alvenaria de fechamento;<br>
+                            Execução de chapisco, emboço e reboco;<br>
+                            Execução de lastro de concreto e contrapiso;<br>
+                            Revisão de cobertura;<br>
+                        </p>
+
+                        <div class="row pb-4">
+                            <h3>Valor pago:</h3>
+                            <div class="col-12 price-modal"><h1>R$XXX.000,00</h1></div>
                             <div class="col-12 modal-btn"><a target="_blank" href="#" class="btn btn-medium btn-rounded btn-trans text-capitalize">Voltar</a></div>
                         </div>
                     </div>

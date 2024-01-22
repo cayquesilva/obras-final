@@ -35,8 +35,8 @@ $(window).on("load", function () {
     else{
         $('#pagepiling').pagepiling({
             direction: 'vertical',
-            sectionsColor: ['#ffffff', '#ffffff', '#ffffff', '#ffffff', '#ffffff'],
-            anchors: ['home-banner', 'all-products', 'reviews', 'contact'],
+            sectionsColor: ['#ffffff', '#ffffff', '#ffffff', '#ffffff', '#ffffff', '#ffffff' , '#ffffff' , '#ffffff'],
+            anchors: ['home-banner', 'obras', 'escola1','escola2', 'escola3', 'escola4', 'depoimentos', 'contato'],
             scrollingSpeed: 500,
             menu: '#menu',
             easing: 'linear',
@@ -46,7 +46,7 @@ $(window).on("load", function () {
             navigation: {
                 'bulletsColor': '#ffffff',
                 'position': 'left',
-                'tooltips': ['Home', 'All Products', 'Reviews', 'Contact'],
+                'tooltips': ['Inicio', 'Obras', 'EM Tiradentes', 'EM Mª José de Carvalho', 'EM São Clemente', 'EM Presidente Kennedy', 'Depoimentos', 'Contato'],
             },
 
             //events
